@@ -9,7 +9,7 @@ import SocialLinks from "./SocialLinks"
 import MobileBio from "./MobileBio"
 import "./header.css"
 
-const Header = ({ siteTitle, tagline, author, contacts }) => {
+const Header = ({ siteTitle }) => {
 
   return (
     <header
@@ -35,11 +35,7 @@ const Header = ({ siteTitle, tagline, author, contacts }) => {
             {siteTitle}
           </Link>
         </h1>
-        <SocialLinks contacts={contacts} />
       </div>
-      <MobileSocialLinks contacts={contacts} />
-      <MobilePageLinks />
-      <MobileBio author={author} />
     </header>
   )
 }

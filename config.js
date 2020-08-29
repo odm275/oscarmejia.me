@@ -3,18 +3,15 @@
 module.exports = {
   url: "https://developer-diary.netlify.com",
   title: "Developer Diary",
-  tagline: "Autodidact developer and sometimes hoop-jumper",
-  copyright: "© 2019 willjw3, All rights reserved",
+  tagline: "Problem Solver with a love for Software Development❤️",
+  copyright: "© 2020 All rights reserved",
   author: {
-    name: "WILL JAY",
-    bio: "Self-taught web developer and whisky aficionado",
+    name: "Oscar Mejia",
+    bio: "Problem Solver with a love for Software Development❤️",
     contacts: {
-      linkedin: "https://www.linkedin.com/in/will-ward-65234a170/",
-      github: "https://github.com/willjw3",
-      stackoverflow:
-        "https://stackoverflow.com/users/10262432/will-ward?tab=profile",
-      freecodecamp: "https://www.freecodecamp.org/willjw3",
-      twitter: "https://twitter.com/willjw3",
+      linkedin: "https://www.linkedin.com/in/oscar-mejia-410b9b1a6/",
+      github: "https://github.com/odm275",
+      twitter: "https://twitter.com/manorojac",
     },
   },
   labels: [
