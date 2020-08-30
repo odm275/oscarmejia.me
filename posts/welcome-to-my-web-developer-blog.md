@@ -1,28 +1,11 @@
 ---
 tags:
-  - react
-  - vscode
-  - git
-  - css
-  - python
-  - ruby
-  - java
-  - angular
-  - html
-  - php
-  - mongodb
-  - graphql
-  - gatsby
   - drupal
-  - personalproject
 published: true
-date: 2018-08-20
-title: Welcome To My Web Developer Blog
+date: 2020-08-27T04:16:35.523Z
+title: Migrating from Drupal 7 to Drupal 8 Part 0 via XML
 ---
+This is the start of a series that will go over common cases when migrating content from Drupal 7 to Drupal 8. This includes migrating different types of fields(text, geofield, address, multi value, entity references, and more), and taxonomies. This tutorial will migrate its content from an XML feed though most of these concepts have close if not identical analog in the case of JSON or CSV. With that Lets get get started !!
 
-This blog template is designed for web developers. Whether you're a professional web developer or are just getting started in the world of web development, this Gatsby starter is ready to go, right out the of box. Its minimalist design makes it easy to tailor to your needs. But, you'll definitely want to make use of the tech tags and developer social media links, and maybe even make some of your own.
-<br>
+![drupal 7 to 8](assets/d7tod8-opt.png "Drupal 7 to 8")
 
-![](../../../src/images/gatsby-icon.png)
-
-Inline images in markdown supported as well.
