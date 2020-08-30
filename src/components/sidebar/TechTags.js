@@ -35,6 +35,7 @@ const TechTags = (props) => {
                 }
             })
         })
+        console.log('tech tags', techTags)
         return techTags
     }
 

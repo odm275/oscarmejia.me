@@ -34,6 +34,11 @@ const Layout = ({ children }) => {
     `}
       render={data => (
         <>
+          <Header
+            siteTitle={data.site.siteMetadata.title}
+            tagline={data.site.siteMetadata.tagline}
+            author={data.site.siteMetadata.author}
+            contacts={data.site.siteMetadata.contacts} />
           <div
             style={{
               margin: `0 auto`,
